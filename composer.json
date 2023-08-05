@@ -1,0 +1,17 @@
+{
+    "name": "hp/cms_template",
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hp\\CmsTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abood",
+            "email": "abedalrahmankhlefat@gmail.com"
+        }
+    ]
+}
